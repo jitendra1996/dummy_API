@@ -1,0 +1,10 @@
+{
+    "clearedExamsInfo": {
+        "exam_id": {
+            "examId": "exam_id",
+            "year": 2020,
+            "numberScored": "156",
+            "totalMarks": "200"
+        }
+    }
+}

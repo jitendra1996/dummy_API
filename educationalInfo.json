@@ -1,0 +1,34 @@
+{
+    "educationalInfo": {
+        "doctorate": {
+            "course": "subject",
+            "startYear": "2001",
+            "finishyear": "2005",
+            "enrollmentNo": "65708934",
+            "passingScore": "89"
+        },
+        "postGraduation": {
+            "course": "Msc",
+            "startYear": "2001",
+            "finishyear": "2003",
+            "enrollmentNo": "65708934",
+            "passingScore": "89"
+        },
+        "graduation": {
+            "course": "diploma_name",
+            "startYear": "2001",
+            "finishyear": "2004",
+            "enrollmentNo": "65708934",
+            "passingScore": "89"
+        },
+        "school": {
+            "class": 12,
+            "board": "CBSE/ISC",
+            "passingScore": "89",
+            "startYear": "2001",
+            "finishyear": "2002",
+            "enrollmentNo": "65708934",
+            "course": "commerce/Arts/"
+        }
+    }
+}

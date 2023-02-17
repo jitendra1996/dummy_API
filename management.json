@@ -1,0 +1,65 @@
+{
+    "role": "owner",
+    "personalInfo": {
+        "name": "Institute name",
+        "dateOfBirth": "22/12/2022",
+        "gender": "male",
+        "mobileNumber": "9999999999",
+        "category": "general",
+        "email": "xyz.abcd100@gmail.com",
+        "address": "xyz street-24 London",
+        "languagesKnown": {
+            "english": {
+                "speak": true,
+                "write": false,
+                "read": true
+            }
+        }
+    },
+    "instituteInfo": {
+        "place_Id": {
+            "placeId": "place_Id",
+            "Courses": {
+                "ssc cgl": {
+                    "duration": 10,
+                    "subject": {
+                        "mathematics": [
+                            "x",
+                            "y",
+                            "z"
+                        ],
+                        "english": [
+                            "anamik",
+                            "B",
+                            "C",
+                            "D"
+                        ]
+                    }
+                },
+                "NDA": {
+                    "duration": 10,
+                    "subject": {
+                        "english": [
+                            "x",
+                            "y",
+                            "z"
+                        ],
+                        "politics": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "clearedExamsInfo": {
+        "exam_id": {
+            "examId": "exam_id",
+            "year": 2020,
+            "numberScored": "156",
+            "totalMarks": "200"
+        }
+    }
+}

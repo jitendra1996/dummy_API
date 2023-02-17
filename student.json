@@ -1,0 +1,78 @@
+{
+    "role": "student",
+    "personalInfo": {
+        "name": "student name",
+        "dateOfBirth": "22/12/2022",
+        "gender": "male",
+        "mobileNumber": "9999999999",
+        "category": "general",
+        "email": "xyz.abcd100@gmail.com",
+        "address": "xyz street-24 London",
+        "languagesKnown": {
+            "english": {
+                "speak": true,
+                "write": false,
+                "read": true
+            }
+        }
+    },
+    "educationalInfo": {
+        "doctorate": {
+            "course": "subject",
+            "startYear": 2001,
+            "finishyear": 2005,
+            "enrollmentNo": "65708934",
+            "passingScore": 89
+        },
+        "postGraduation": {
+            "course": "Msc",
+            "startYear": 2001,
+            "finishyear": 2003,
+            "enrollmentNo": "65708934",
+            "passingScore": 89
+        },
+        "graduation": {
+            "course": "diploma_name",
+            "startYear": 2001,
+            "finishyear": 2004,
+            "enrollmentNo": "65708934",
+            "passingScore": 89
+        },
+        "school": {
+            "class": 12,
+            "board": "CBSE/ISC",
+            "passingScore": 89,
+            "startYear": 2001,
+            "finishyear": 2002,
+            "enrollmentNo": "",
+            "course": "commerce/Arts/"
+        }
+    },
+    "instituteInfo": {
+        "place_Id": {
+            "placeId": "place_Id",
+            "Courses": {
+                "ssc cgl": {
+                    "duration": 10,
+                    "joiningYear": 2021,
+                    "subject": {
+                        "mathematics": [
+                            "mukesh dube"
+                        ],
+                        "english": [
+                            "anamika singh"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "clearedExamsInfo": {
+        "exam_id": {
+            "examId": "exam_id",
+            "year": 2020,
+            "numberScored": 156,
+            "totalMarks": 200
+        }
+    }
+}

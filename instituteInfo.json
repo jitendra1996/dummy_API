@@ -1,0 +1,40 @@
+{
+    "instituteInfo": {
+        "place_Id": {
+            "placeId": "place_Id",
+            "Courses": {
+                "ssc cgl": {
+                    "duration": 10,
+                    "subject": {
+                        "mathematics": [
+                            "x",
+                            "y",
+                            "z"
+                        ],
+                        "english": [
+                            "anamik",
+                            "B",
+                            "C",
+                            "D"
+                        ]
+                    }
+                },
+                "NDA": {
+                    "duration": 10,
+                    "subject": {
+                        "english": [
+                            "x",
+                            "y",
+                            "z"
+                        ],
+                        "politics": [
+                            "A",
+                            "B",
+                            "C"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
